@@ -1,7 +1,10 @@
-h2 {
-    color:red;
+*{
+    padding: 0;
+    margin:0;
 }
-p {
-    color:blue;
-    size: 36px;
+header {
+    background-color: #231C1A;
+}
+h1 {
+    color: white;
 }

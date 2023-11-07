@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin:0;
+}
+header, section, footer {
+    background-color: #d6ccc2;
+    border: 5px #9d8189 soild; /*边框 solid直线 dashed虚线 dotted圆点*/
+    padding: 30px 0 20px 50px; /*内边距 顺序：1.上 右 下 左 2.上 左右 下 3.上下 左右*/
+    margin: 10px;/*同padding 此处是外边距*/
+}
+h2 {
+    color:red;
+}
+p {
+    color:blue;
+    size: 36px;
+}
