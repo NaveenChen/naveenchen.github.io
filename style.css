@@ -26,6 +26,7 @@ h1 {
     top: 0;
     line-height: 80px;
     background-image: url(/images/avatar.jpg);
+    background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
     width: 210px;
