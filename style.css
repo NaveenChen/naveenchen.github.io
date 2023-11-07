@@ -8,3 +8,28 @@ header {
 h1 {
     color: white;
 }
+head li {
+    display: inline;
+    margin-right:4vw;
+    height:80px;
+    width:100%;
+}
+header ul {
+    position: absolute;
+    right: 5vw;
+    top: 0;
+    line-height: 80px;
+}
+h1 {
+    position: absolute;
+    left: 120px;
+    top: 0;
+    line-height: 80px;
+}
+header a {
+    color: white;
+    text-decoration: none;
+}
+head a:hover {
+    text-decoration: underline;
+}
