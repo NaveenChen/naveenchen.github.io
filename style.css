@@ -8,7 +8,7 @@ header {
 h1 {
     color: white;
 }
-head li {
+header li {
     display: inline;
     margin-right:4vw;
     height:80px;
